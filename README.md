@@ -1,1 +1,1 @@
-# Personal-Project
+use python puzzle.py to start it
